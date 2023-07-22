@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### <center>Hi there 👋</center>
 
 ***
 
@@ -8,7 +8,7 @@
 
 ***
 
-[![Juheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=blahxblah&show_icons=true&hide_rank=true&theme=gruvbox_light)](https://github.com/blahxblah/github-readme-stats)
+<center>[![Juheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=blahxblah&show_icons=true&hide_rank=true&theme=gruvbox_light)](https://github.com/blahxblah/github-readme-stats)</center>
 
 
 <!--
