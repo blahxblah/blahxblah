@@ -2,6 +2,14 @@
 ### <div align=center>Hi there 👋</div>
 
 ***
+##### <div align=center>📧 E-mail</div>
+<div align=center>id.blahxblah@gmail.com</div>
+
+##### <div align=center>📱 Phone</div>
+<div align=center>+82) 010-8779-6130</div>
+
+***
+
 ### <div align=center>🧑‍💻Tech Stack</div>
 
 <div align=center><!--Python-->
