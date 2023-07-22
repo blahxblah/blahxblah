@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=bada55&height=150&section=header&text=blahxblah&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=40)
-
-
 
 ### Hi there 👋
 
